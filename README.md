@@ -14,4 +14,5 @@ To create a new repo, you'll use the git init command. git init is a one-time co
 |git commit -m “Message” | Commits with a one-line message
 |git commit              | Opens the default editor to type a long message
 |git status       | Full status
-git status -s    | Short status
+|git status -s    | Short status
+|git clone url | Cloning a repository
