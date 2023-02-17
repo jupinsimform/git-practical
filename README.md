@@ -4,6 +4,8 @@
 
         The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
 
+![git branch workflow](https://miro.medium.com/max/552/1*PiduCtSA7kMwdPiMZo1nHw.jpeg)
+
 | Command        | Description          
 | ------------- |:-------------:
 |git branch |	List branches (the asterisk denotes the current branch)
