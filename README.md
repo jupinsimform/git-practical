@@ -20,4 +20,4 @@
 |git config --local user.name "Jerry Mouse" | Setting username
 |git config --local user.email "jerry@tutorialspoint.com" | Setting email id
 |git config --local core.editor vim | Setting default editor
-|git config --local merge.tool vimdiff | Setting default merge tool
+
