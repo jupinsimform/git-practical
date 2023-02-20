@@ -20,3 +20,7 @@
 |git checkout -- [file-name.txt] | Discard changes to a file
 |git branch --merged | Shows the merged branches
 |git branch --no-merged| Shows the unmerged branches
+
+
+
+
